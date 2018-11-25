@@ -1,4 +1,4 @@
- Python Programming: Introduction to Computer Science
+# Python Programming: Introduction to Computer Science
 This repository features my solutions to the well known *Python Programming: Introduction to Computer Science* book by John Zelle. 
 
 As a self-learner of CS, I found this book to be a powerfully useful tool for learning the basics of Python. As an educator, I appreciate the attention to sequencing of foundational concepts in computer science. With hundreds of exercises, Zelle has students learn by writing scripts.
