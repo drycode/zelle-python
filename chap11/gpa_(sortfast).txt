@@ -1,0 +1,5 @@
+Computewell, Susan	100.0	400.0
+Smith, Frank	37.0	125.33
+Jones, Jim	48.5	155.0
+DibbleBit, Denny	18.0	41.5
+Adams, Henry	127.0	228.0

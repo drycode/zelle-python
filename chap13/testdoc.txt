@@ -1,0 +1,10 @@
+Before we move on to the analysis, we should note that this algorithm is a great 
+example of a divide and conquer strategy. Divide and conquer means that we divide 
+the problem into smaller pieces, solve the smaller pieces in some way, 
+and then reassemble the whole problem to get the result. When 
+we perform a binary search of a list, we first check the middle item. 
+If the item we are searching for is less than the middle item, we can 
+simply perform a binary search of the left half of the original list. 
+Likewise, if the item is greater, we can perform a binary search of the right 
+half. Either way, this is a recursive call to the binary search function 
+passing a smaller list. CodeLens 4 shows this recursive version.
