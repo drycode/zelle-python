@@ -38,7 +38,7 @@ class DieView:
                         self.__makePip(cx + offset, cy + offset)
                     ]
         #Create a table for which pips are on for each value 
-        self.onTable = [ [], [3], [2,4], [2,3,4] [0,2,4,6], [0,2,3,4,6], [0,1,2,4,5,6]]
+        self.onTable = [ [], [3], [2,4], [2,3,4], [0,2,4,6], [0,2,3,4,6], [0,1,2,4,5,6]]
 
         #Draw an initial value
         self.setValue(1)
